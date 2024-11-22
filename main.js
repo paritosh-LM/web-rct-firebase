@@ -5,7 +5,7 @@ import "firebase/firestore";
 
 const firebaseConfig = {
   // your config
-  apiKey: "",
+
   authDomain: "web-rtc-poc-897bf.firebaseapp.com",
   projectId: "web-rtc-poc-897bf",
   storageBucket: "web-rtc-poc-897bf.firebasestorage.app",

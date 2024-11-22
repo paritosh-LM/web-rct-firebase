@@ -2,8 +2,7 @@
 const twilio = require("twilio");
 
 // Replace with your Twilio Account SID and Auth Token
-const accountSid = "";
-const authToken = "";
+
 const client = twilio(accountSid, authToken);
 
 async function createToken() {
